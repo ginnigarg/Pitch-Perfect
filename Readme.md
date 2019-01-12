@@ -17,7 +17,7 @@
 - Just Build It and Run it
 
 #### Following are some of the screenshots of the application : 
-- ![alt text](Images/1.png = 100x20)
+- ![](Images/1.png =100x20)
 - ![alt text](Images/2.png)
 - ![alt text](Images/3.png)
 

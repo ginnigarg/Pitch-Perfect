@@ -7,8 +7,9 @@
 - Swift 4
 
 ## Theory
-- This App is a Public ChatRoom App where Users Sign in after registering using their Email IDs and could chat with people all across Globe.
-- It uses Firebase for Networking and Database Support.
+- The main objective of this project was to record the audio of the user and then play it again with different frequency, pitch and speed. 
+- It used the AVFoundation library of swift.
+- It was build for iOS devices. 
 
 ## How To Run It
 - Download this Project on your Mac
@@ -17,9 +18,8 @@
 - Just Build It and Run it
 
 #### Following are some of the screenshots of the application : 
-- ![](Images/1.png =100x20)
-- ![alt text](Images/2.png)
-- ![alt text](Images/3.png)
-- <img src = "Images/1.png" height = "1000px" width = "400px">
+- <img src = "Images/1.png" height = "1200px" width = "600px">
+- <img src = "Images/2.png" height = "1200px" width = "600px">
+- <img src = "Images/3.png" height = "1200px" width = "600px">
 
 

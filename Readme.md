@@ -20,5 +20,6 @@
 - ![](Images/1.png =100x20)
 - ![alt text](Images/2.png)
 - ![alt text](Images/3.png)
+- <img src = "Images/1.png" height = "200px" width = "40px">
 
 
